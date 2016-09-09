@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab5</string>
+
+    <string name="prompt">Enter data to be encrypted</string>
+</resources>

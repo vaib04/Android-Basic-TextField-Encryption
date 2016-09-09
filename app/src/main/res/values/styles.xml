@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimary">#2E2EAD</item>
+        <item name="android:colorPrimaryDark">#050456</item>
+    </style>
+
+</resources>
